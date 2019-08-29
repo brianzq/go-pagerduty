@@ -12,7 +12,7 @@ import (
 )
 
 const (
-	apiEndpoint = "https://api.pagerduty.com"
+	apiEndpoint = "https://not-a-startup.pagerduty.com"
 )
 
 // APIObject represents generic api json response that is shared by most
